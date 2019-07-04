@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c77a8719-0cb3-4fc4-a75d-6d68aed38eeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quick_sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../binary_search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../binary_search.js" afterDir="false" />
-    </list>
+    <list default="true" id="c77a8719-0cb3-4fc4-a75d-6d68aed38eeb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -102,12 +98,12 @@
       <updated>1560523965961</updated>
       <workItem from="1560523967377" duration="529000" />
       <workItem from="1560707657004" duration="195000" />
-      <workItem from="1561745227572" duration="201000" />
+      <workItem from="1561745227572" duration="560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="1284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
